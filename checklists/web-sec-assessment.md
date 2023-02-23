@@ -73,7 +73,7 @@
 - [ ]  Ensure unwanted modules are disabled
 - [ ]  Ensure the server can handle DOS
 - [ ]  Check how the applio     s handling 4xx & 5xx errors
--[]  Check for the privilege required to run
+- [ ]  Check for the privilege required to run
 - [ ]  Check logs for sensitive info
     
 ### Test File Extension Handling
