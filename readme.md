@@ -34,5 +34,3 @@ We aim to continue expanding the repository to include checklists for other rele
 10. California Consumer Privacy Act (CCPA)
 
 Each of these standards and frameworks has its own set of requirements that organizations must follow to ensure compliance. By providing checklists for these standards, we aim to make it easier for security practitioners to assess their compliance with these requirements and maintain a strong security posture.
-
-If you would like to contribute a checklist for any of these standards or suggest other standards to add to the repository, please create a pull request or submit an issue with your suggestion.
